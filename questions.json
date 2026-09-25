@@ -1,0 +1,704 @@
+[
+  {
+    "question": "O'zbekistondan chet ellarga mehnat qilishga yo'l olayotganlarning necha foizi Rossiyada ish topishni afzal ko'radi?",
+    "options": [
+      "60%",
+      "70%",
+      "80%"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "\"Shimol-Janub\" muammosi nima?",
+    "options": [
+      "Rivojlangan (Shimol) va rivojlanayotgan (Janub) mamlakatlar o'rtasidagi iqtisodiy tafovut",
+      "Faqat geografik muammo",
+      "Faqat iqlim muammosi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Rivojlangan mamlakatlarda aholi jon boshiga YaIM qancha?",
+    "options": [
+      "20,000 dollardan yuqori",
+      "1000 dollardan kam",
+      "500 dollar atrofida"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Kapitalning xalqaro harakati nima?",
+    "options": [
+      "Faqat valyuta ayirboshlash operatsiyalari",
+      "Faqat tovar va xizmatlar almashinuvi",
+      "Kapitalning mamlakatlar o'rtasida ko'chib yurishi va investitsiya qilinishi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Portfel investitsiyalari nima?",
+    "options": [
+      "Qimmatli qog'ozlarga qisqa muddatli investitsiya",
+      "Kompaniyani to'liq nazorat qilish",
+      "Kompaniya boshqaruvida ishtirok etmasdan qimmatli qog'ozlar sotib olish"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Jahon xo'jaligi qachon shakllangan?",
+    "options": [
+      "XVIII asrda",
+      "XIX asrning oxiri – XX asr boshlarida",
+      "XX asrning o'rtalarida"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Rivojlanayotgan mamlakatlarning asosiy muammosi nima?",
+    "options": [
+      "Qashshoqlik, texnologik qoloqlik va tashqi qarz",
+      "Ortiqcha kapital",
+      "Aholining kamligi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tashqi savdoni davlat tomonidan tartibga solishning asosiy sabablaridan biri nima?",
+    "options": [
+      "Faqat davlat budjetini to'ldirish",
+      "Milliy iqtisodiyotni himoyalash va iqtisodiy barqarorlikni ta'minlash",
+      "Faqat savdo balansini saqlash"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Xalqaro mehnat taqsimoti nimaga olib keladi?",
+    "options": [
+      "Barcha mamlakatlarning bir xil rivojlanishiga",
+      "Mamlakatlar ixtisoslashuviga",
+      "Xalqaro aloqalarning qisqarishiga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Xalqaro iqtisodiy munosabatlar mexanizmi nimani o'z ichiga oladi?",
+    "options": [
+      "Faqat savdo shartnomalarini",
+      "Huquqiy me'yorlar va ularni amalga oshirish vositalarini",
+      "Faqat valyuta operatsiyalarini"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Tashqi savdo siyosati qaysi mexanizmlarni o'z ichiga oladi?",
+    "options": [
+      "Faqat kvotalar",
+      "Faqat bojxona tariflari",
+      "Soliqlar, subsidiyalar, valyuta nazorati, import va eksportga cheklovlar"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "TMKlarning ijobiy ta'siri nimada?",
+    "options": [
+      "Milliy ishlab chiqarishni yo'q qilish",
+      "Faqat soliq to'lashdan qochish",
+      "Yangi texnologiyalar, ish o'rinlari va investitsiyalar olib kelish"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Xalqaro iqtisodiy munosabatlar predmeti necha qismdan iborat?",
+    "options": [
+      "Bir",
+      "Ikki",
+      "Uch"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Iqtisodiy ittifoq nima?",
+    "options": [
+      "Umumiy bozor + iqtisodiy siyosatni muvofiqlashtirish",
+      "Faqat savdo ittifoqi",
+      "Faqat valyuta ittifoqi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Integratsiyaning eng past shakli qaysi?",
+    "options": [
+      "Erkin savdo zonasi",
+      "Iqtisodiy ittifoq",
+      "Umumiy bozor"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Bojxona ittifoqi erkin savdo zonasidan nimasi bilan farq qiladi?",
+    "options": [
+      "Uchinchi mamlakatlarga nisbatan yagona bojxona tarifi o'rnatiladi",
+      "Faqat siyosiy ittifoq",
+      "Faqat valyuta ittifoqi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Investitsiyalardan olingan daromadlar to'lov balansining qaysi qismida aks ettiriladi?",
+    "options": [
+      "Savdo balansi",
+      "Joriy hisob",
+      "Kapital hisobi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "NAFTA (hozirgi USMCA) qaysi mamlakatlarni o'z ichiga oladi?",
+    "options": [
+      "AQSH, Kanada, Meksika",
+      "Faqat Yevropa mamlakatlarini",
+      "Faqat Osiyo mamlakatlarini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Jahon xo'jaligining asosi nima hisoblanadi?",
+    "options": [
+      "Valyuta kurslari",
+      "Xalqaro mehnat taqsimoti",
+      "Siyosiy ittifoqlar"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Inson taraqqiyoti indeksi (HDI) nimani o'lchaydi?",
+    "options": [
+      "Hayot davomiyligi, ta'lim va daromad darajasini",
+      "Faqat iqtisodiy o'sishni",
+      "Faqat aholi sonini"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Importga bojxona tarifini joriy etish nimaga olib keladi?",
+    "options": [
+      "Ichki iste'molchilar farovonligini oshiradi",
+      "Mahalliy o'xshash mahsulotlarni ishlab chiqaruvchilarni himoya qiladi",
+      "Import ishlab chiqaruvchilarning daromadini oshiradi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "TMKlarning asosiy belgisi nima?",
+    "options": [
+      "Faqat eksport-import operatsiyalari",
+      "Faqat milliy bozorda faoliyat yuritish",
+      "Chet elda filial va sho'ba korxonalarga ega bo'lish"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Tashqi savdo siyosati umumiy iqtisodiy siyosatning qanday qismi hisoblanadi?",
+    "options": [
+      "Faqat soliq siyosatining qismi",
+      "Mustaqil bo'lmagan qismi",
+      "Nisbatan mustaqil yo'nalishlaridan biri"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "TXXI oqimining eng katta hajmi qaysi yo'nalishda kuzatiladi?",
+    "options": [
+      "Faqat Afrika mamlakatlariga",
+      "Rivojlanayotgan mamlakatlardan rivojlangan mamlakatlarga",
+      "Rivojlangan mamlakatlar o'rtasida"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "MERCOSUR qaysi mintaqaviy integratsiya tashkiloti?",
+    "options": [
+      "Janubiy Amerika",
+      "Yevropada",
+      "Osiyoda"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Rivojlangan mamlakatlarning asosiy belgisi nima?",
+    "options": [
+      "Yuqori YaIM, yuqori turmush darajasi va rivojlangan texnologiya",
+      "Past daromad va past texnologiya",
+      "Faqat qishloq xo'jaligi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Umumiy bozor nima?",
+    "options": [
+      "Tovar, xizmat, kapital va mehnatning erkin harakati",
+      "Faqat tovar erkin harakati",
+      "Faqat kapital harakati"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "To'g'ridan-to'g'ri xorijiy investitsiyalar (TXXI) qanday xususiyatga ega?",
+    "options": [
+      "Qisqa muddatli spekulyativ operatsiyalar",
+      "Faqat portfel investitsiyalarini o'z ichiga oladi",
+      "Investor kompaniyani boshqarish huquqini oladi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "\"Iqtisodiy mo'jiza\" qaysi mamlakatlarga tegishli?",
+    "options": [
+      "Janubiy Koreya, Singapur, Xitoy kabi tez rivojlangan mamlakatlarga",
+      "Faqat Afrika mamlakatlariga",
+      "Faqat Yevropa mamlakatlariga"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tashqi savdoni tartibga solish vositalari qanday turlarga bo'linadi?",
+    "options": [
+      "Faqat tarif usullari",
+      "Tarif va notarif usullar",
+      "Faqat notarif usullari"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Kapital eksportining asosiy sababi nima?",
+    "options": [
+      "Yuqori foyda olish va bozorlarni kengaytirish",
+      "Faqat xayriya maqsadlari",
+      "Faqat siyosiy sabablar"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Erkin iqtisodiy hududlar xalqaro iqtisodiy munosabatlar tizimining qaysi qismiga kiradi?",
+    "options": [
+      "Xalqaro mehnat taqsimotiga",
+      "Xalqaro iqtisodiy integratsiyaga va alohida shakl sifatida",
+      "Xalqaro savdoga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Importni cheklash uzoq muddatda qanday natija berishi mumkin?",
+    "options": [
+      "Iqtisodiy rivojlanishga to'siq bo'lishi mumkin",
+      "Doimiy iqtisodiy o'sish",
+      "Faqat ijobiy natija"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Rivojlanayotgan mamlakatlarda qishloq xo'jaligining ulushi qancha?",
+    "options": [
+      "YaIMning katta qismini tashkil etadi",
+      "5% dan kam",
+      "1% atrofida"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Xalqaro savdo qanday sharoit yaratadi?",
+    "options": [
+      "Mahalliy va jahon ishlab chiqarish xarajatlari o'rtasidagi farq tufayli qo'shimcha daromad olish",
+      "Tabiiy resurslarni iste'mol qilishni cheklash",
+      "Mehnat migratsiyasini qisqartirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Rivojlanayotgan mamlakatlarning asosiy eksport mahsuloti nima?",
+    "options": [
+      "Faqat yuqori texnologiyali mahsulotlar",
+      "Xom ashyo, qishloq xo'jaligi mahsulotlari va mehnat talab mahsulotlar",
+      "Faqat mashinasozlik mahsulotlari"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Tashqi savdoni tartibga solishda davlatning asosiy maqsadlaridan biri nima?",
+    "options": [
+      "Iqtisodiy barqarorlikni ta'minlash va milliy manfaatlarni himoya qilish",
+      "Faqat importni oshirish",
+      "Faqat savdo hajmini oshirish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Noto'g'ri tashqi savdo siyosati qanday oqibatlarga olib kelishi mumkin?",
+    "options": [
+      "Faqat iqtisodiy o'sishga",
+      "Ishsizlikning pasayishiga",
+      "Ishsizlikning oshishiga"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Xalqaro savdoning asosiy ko'rsatkichlariga nima kiradi?",
+    "options": [
+      "Valyuta kursi",
+      "Eksport va import",
+      "YaIM"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Tashqi savdoni tartibga solish orqali davlat qanday vazifani bajaradi?",
+    "options": [
+      "Milliy iqtisodiyot mustaqilligini saqlash va iqtisodiy barqarorlikni ta'minlash",
+      "Faqat valyuta kursini belgilash",
+      "Faqat soliq yig'ish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Xalqaro iqtisodiy munosabatlar qachon global xarakterga ega bo'ldi?",
+    "options": [
+      "Jahon xo'jaligi vujudga kelishi bilan",
+      "Faqat XX asr oxirida",
+      "Faqat XXI asrda"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Erkin savdo zonasi (FTA) nima?",
+    "options": [
+      "A'zo mamlakatlar o'rtasida savdo to'siqlarini olib tashlash",
+      "Barcha to'siqlarni saqlab qolish",
+      "Faqat valyuta ittifoqi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Import tovarlariga bojxona tarifi joriy etilganda nima sodir bo'ladi?",
+    "options": [
+      "Ichki iste'molchilar farovonligi oshadi",
+      "Mahalliy o'xshash mahsulotlarni ishlab chiqaruvchilar himoya qilinadi",
+      "Import qiluvchi ishlab chiqaruvchilar daromadi oshadi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Xalqaro iqtisodiy integratsiya nima?",
+    "options": [
+      "Mamlakatlarning iqtisodiy jihatdan birlashishi va o'zaro hamkorligi",
+      "Faqat siyosiy ittifoq tuzish",
+      "Faqat harbiy blok tuzish"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "BMT ma'lumotlariga ko'ra, hozirgi kunda jahonda qancha kishi o'z vatanini tark etib, chet elda yashaydi?",
+    "options": [
+      "100 milliondan ortiq",
+      "50 milliondan ortiq",
+      "200 milliondan ortiq"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Xalqaro mehnat migratsiyasi nima?",
+    "options": [
+      "Kapitalning bir mamlakatdan boshqasiga oqimi",
+      "Tovarlarning mamlakatlar orasida ko'chishi",
+      "Ishchi kuchining jahon mamlakatlari orasida ko'chib yurishi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "TXXI ning asosiy afzalligi nima?",
+    "options": [
+      "Faqat soliq imtiyozlari",
+      "Faqat qisqa muddatli foyda",
+      "Uzoq muddatli investitsiya va texnologiya transferi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "AQShda NAFTA kelishuvi natijasida qanday oqibat yuz berdi?",
+    "options": [
+      "Yuz minglab ishlab chiqarish ishlari yo'qoldi",
+      "Savdo balansi yaxshilandi",
+      "Yangi ish o'rinlari ko'paydi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Yevro valyutasi qachon muomalaga kiritilgan?",
+    "options": [
+      "2010 yil",
+      "1999/2002 yillarda",
+      "1990 yil"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Integratsiyaning ijobiy natijalari nima?",
+    "options": [
+      "Faqat madaniy almashinuv",
+      "Savdo hajmining o'sishi, raqobatning kuchayishi, iqtisodiy o'sish",
+      "Faqat siyosiy manfaatlar"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Quyidagilardan qaysi biri xalqaro iqtisodiy tashkilot hisoblanadi?",
+    "options": [
+      "Interpol",
+      "Jahon banki",
+      "NATO"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Yangi industrial mamlakatlar (NIS) qaysilar?",
+    "options": [
+      "Faqat AQSH va Yaponiya",
+      "Faqat Afrika mamlakatlari",
+      "Janubiy Koreya, Singapur, Tayvan, Gonkong"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Dunyodagi eng yirik TMKlardan biri qaysi?",
+    "options": [
+      "Faqat davlat korxonalari",
+      "Apple, Microsoft, Toyota kabi korporatsiyalar",
+      "Faqat kichik milliy kompaniyalar"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Qozog'istonga MDH mamlakatlaridan kelgan mehnatkash-migrantlarning necha foizini O'zbekiston fuqarolari tashkil etadi?",
+    "options": [
+      "30%",
+      "57.60%",
+      "40%"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Rivojlangan mamlakatlarning jahon YaIMdagi ulushi qancha?",
+    "options": [
+      "5% atrofida",
+      "10% atrofida",
+      "60% dan ortiq"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Rivojlanayotgan mamlakatlarga xalqaro yordam qanday shakllarda bo'ladi?",
+    "options": [
+      "Moliyaviy grantlar, imtiyozli kreditlar, texnik yordam",
+      "Faqat harbiy yordam",
+      "Faqat madaniy yordam"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mamlakatda kichik maishiy texnika uchun import bojxona boji miqdori 15% dan 10% ga kamaydi. Bu qanday bojxona bojiga misol?",
+    "options": [
+      "Advalor",
+      "Birlashtirilgan",
+      "Maxsus"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Jahon xo'jaligida xalqaro tashkilotlar qanday maqsadda xizmat qiladi?",
+    "options": [
+      "Faqat savdoni cheklash uchun",
+      "Faqat valyuta kurslarini belgilash uchun",
+      "Tenglikka asoslangan va o'zaro manfaatli iqtisodiy aloqalar o'rnatish uchun"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Yevropa Ittifoqi (YI) qanday integratsiya shakli?",
+    "options": [
+      "Iqtisodiy va valyuta ittifoqi",
+      "Faqat erkin savdo zonasi",
+      "Faqat bojxona ittifoqi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "ASEAN tashkiloti qaysi mintaqada joylashgan?",
+    "options": [
+      "Janubi-Sharqiy Osiyoda",
+      "Yevropada",
+      "Afrikada"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Transmilliy kompaniya (TMK) nima?",
+    "options": [
+      "Xalqaro tashkilot",
+      "Faqat bir mamlakatda faoliyat yurituvchi kompaniya",
+      "Bir nechta mamlakatlarda filiallari bo'lgan yirik korporatsiya"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Tashqi savdo siyosatida qo'llaniladigan notarif usullar soni qancha?",
+    "options": [
+      "43 mingdan ortiq",
+      "100 dan oshiq",
+      "1000 dan oshiq"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Jahon xo'jaligidagi iqtisodiy aloqalar qanday tamoyillarga asoslanadi?",
+    "options": [
+      "Faqat kuch ishlatish tamoyiliga",
+      "Faqat davlatlararo majburiy kelishuvlarga",
+      "Milliy iqtisodiyotlarning mustaqilligi, bozor qoidalari, o'zaro manfaatlilik va ixtiyoriylik tamoyillariga"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Kapitalning xalqaro harakatiga ta'sir etuvchi omillar:",
+    "options": [
+      "Faqat tabiiy sharoit",
+      "Foiz stavkasi, soliq siyosati, siyosiy barqarorlik, bozor hajmi",
+      "Faqat geografik joylashuv"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Malakali mutaxassislarning tashqariga chiqib ketishi qanday oqibatga olib keladi?",
+    "options": [
+      "Aholi soni ko'payadi",
+      "Mamlakatning texnologik imkoniyatini va ilmiy salohiyatini kamaytiradi",
+      "Mamlakat iqtisodiyoti yaxshilanadi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Xalqaro iqtisodiy munosabatlar tizimiga quyidagilardan qaysi biri KIRMAYDI?",
+    "options": [
+      "Xalqaro ishchi kuchi migratsiyasi",
+      "Milliy soliq tizimi",
+      "Xalqaro tovar va xizmatlar savdosi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Migratsiya omillari orasida eng asosiysi qaysi?",
+    "options": [
+      "Iqtisodiy",
+      "Siyosiy",
+      "Demografik"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "TMKlarning salbiy ta'siri nimada?",
+    "options": [
+      "Milliy ishlab chiqaruvchilarni siqib chiqarishi va resurslardan foydalanish",
+      "Faqat soliq to'lashi",
+      "Faqat ijobiy ta'sir ko'rsatadi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Rivojlangan mamlakatlar tajribasi qaysi siyosatni tasdiqlaydi?",
+    "options": [
+      "Erkin savdo siyosati iqtisodiy resurslarni samarali taqsimlash va xalqaro hamkorlikni kuchaytirish imkonini beradi",
+      "Faqat importni cheklash",
+      "Faqat proteksionizm"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tashqi savdoni tartibga solishda eksportni rag'batlantirish va importni cheklash orqali davlat nima qilishga intiladi?",
+    "options": [
+      "Faqat eksportni oshirishga",
+      "Savdo balansini saqlashga",
+      "Faqat importni oshirishga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Xalqaro kapital harakatining shakllari qaysilar?",
+    "options": [
+      "Faqat tovar savdosi",
+      "Faqat mehnat migratsiyasi",
+      "TXXI, portfel investitsiyalar, kreditlar va yordam"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Muddati bo'yicha migratsiya qanday turlarga bo'linadi?",
+    "options": [
+      "Faqat mavsumiy",
+      "Faqat doimiy va vaqtinchalik",
+      "Butunlay, vaqtinchalik, mavsumiy, mayatnikli"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Yevropa Ittifoqiga a'zo mamlakatlar soni qancha?",
+    "options": [
+      "27 ta",
+      "15 ta",
+      "10 ta"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"Uchinchi dunyo\" atamasi nimani anglatadi?",
+    "options": [
+      "Rivojlanayotgan mamlakatlar",
+      "Faqat rivojlangan mamlakatlar",
+      "Faqat sotsialistik mamlakatlar"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Jahon xo'jaligi aloqalari qanday shakllarga ega?",
+    "options": [
+      "Faqat savdo-sotiq",
+      "Savdo-sotiq, valyuta-kredit munosabatlari, kapital harakati, ishchi kuchi migratsiyasi va boshqalar",
+      "Faqat valyuta-kredit munosabatlari"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Xalqaro savdoda qo'llaniladigan notarif usullar qaysi maqsadlarga xizmat qiladi?",
+    "options": [
+      "Faqat savdoni cheklash",
+      "Milliy ishlab chiqaruvchilarni rag'batlantirish, moliya tizimini barqarorlashtirish, budjet tushumlarini oshirish",
+      "Faqat importni oshirish"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Rivojlangan mamlakatlar qaysilar?",
+    "options": [
+      "AQSH, Yaponiya, Germaniya, Buyuk Britaniya, Fransiya va boshqalar",
+      "Faqat Afrika mamlakatlari",
+      "Faqat Osiyo mamlakatlari"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Rivojlanayotgan mamlakatlar qaysilar?",
+    "options": [
+      "Osiyo, Afrika, Lotin Amerikasi va boshqa rivojlanayotgan davlatlar",
+      "Faqat Yevropa mamlakatlari",
+      "Faqat AQSH va Kanada"
+    ],
+    "correct": 0
+  }
+]
